@@ -10,7 +10,16 @@ h1{
 section{
     display: flex;
 }
-.image{
-    height: 400px;
-    width: 400px;
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img {
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
 }
