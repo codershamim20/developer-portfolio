@@ -7,3 +7,10 @@ h1{
 .colorheader{
     color:crimson;
 }
+section{
+    display: flex;
+}
+.image{
+    height: 400px;
+    width: 400px;
+}
